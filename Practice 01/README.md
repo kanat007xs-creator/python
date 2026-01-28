@@ -21,6 +21,7 @@ Download and install Git on your local PC:
   ```
 
 ---
+done 
 
 ### 2.2 Register on GitHub
 
